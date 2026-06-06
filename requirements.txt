@@ -1,0 +1,4 @@
+aiogram==2.25.1
+aiogram-http-client==0.4.0
+flask==2.2.3
+python-dotenv==1.0.0
