@@ -1,0 +1,6 @@
+aiogram==3.4.1
+asyncpg==0.29.0
+apscheduler==3.10.4
+flask==2.3.3
+aiohttp==3.9.3
+python-dotenv==1.0.0
